@@ -1,22 +1,70 @@
-# KGSec
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=db034b"/>
 
-![Logo](kgseclogo.png) </br>
+<div align="center">
+  <samp>
+    <b>
+      サイバーセキュリティ
+    </b>
+      <br>
+      Hey! It's KG Sec ^^
+      <br>
+  </samp>
+</div>
 
-This repository was created to store and share practical projects related to cybersecurity, including:
+##
 
-- 🚩 CTFs (Capture The Flag): Challenges and solutions for security competitions.
+<div align="center">
+  <img src="kgseclogo.png" width="20%">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/KG_Sec_%E2%99%A1-5A627C" />
+</div>
 
- - 📋 Penetration Tests: Reports, methodologies and scripts used in attack simulations.
+<br>
 
-In the future, the repository will also include:
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&&color=DB034B&center=true&vCenter=true&width=500&lines=You're+welcome+%5E%5E" alt="Typing SVG"/>
+</div>
 
-- 🐞 Bug Bounties: Details on vulnerabilities discovered and reported in bounty programs.
+##
 
-- 🏹 CVE Hunting: Analysis and exploits of vulnerabilities registered in Common Vulnerabilities and Exposures.
+<div align="center">
+ <h4>💡 This repository was created to store and share practical projects related to cybersecurity, including:</h4>
+ <br>
+ 
+ <table>
+  <tr>
+    <td>🐞 Bug Bounties</td>
+    <td>Details on vulnerabilities discovered and reported in bounty programs.</td>
+  </tr>
+  <tr>
+    <td>🚩 CTFs</td>
+    <td>Challenges and solutions for security rooms and competitions.</td>
+  </tr>
+  <tr>
+    <td>🏹 CVE Hunting</td>
+    <td>Analysis and exploits of vulnerabilities registered in Common Vulnerabilities and Exposures.</td>
+  </tr>
+  <tr>
+    <td>📋 Penetration Tests</td>
+    <td>Reports, methodologies and scripts used in attack simulations.</td>
+  </tr>
+</table>
 
-The goal is to document and share knowledge, techniques and tools to contribute to the cybersecurity community. </br></br>
+<h4>🎯 The goal is to document and share knowledge, techniques and tools to contribute to the cybersecurity community.</h4>
 
-*Made with 💜 by Karina.* </br>
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/KarinaGante/)
+##
+
+   _“Security is not a product, but a process.” – Bruce Schneier_
+
+  ##
+  
+  *Made with💜 by Karina.* 
+
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/karina-gante/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/KarinaGante/)
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:karina.g@aluno.ifsp.edu.br)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/karinovisk02/)
+   
+</div>
