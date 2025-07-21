@@ -62,6 +62,6 @@ Trigger Page: `/usuarios/tipos`
 
 ### Finder
 
-[Karina Gante](https://www.linkedin.com/in/karina-gante/)
+[Karina Gante](https://karinagante.github.io/)
 
 *by [CVE-Hunters](https://github.com/CVE-Hunters/cve-hunters)*
