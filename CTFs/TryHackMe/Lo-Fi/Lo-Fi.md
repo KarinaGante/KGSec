@@ -55,4 +55,4 @@ Want to hear some lo-fi beats, to relax or study to? We've got you covered!
 
 ##
 
-*Official Member of [CVE-Hunters](https://github.com/CVE-Hunters/cve-hunters)🏹*
+*Official Member of [CVE-Hunters](https://www.cvehunters.com/)🏹*
