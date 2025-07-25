@@ -1,25 +1,34 @@
-<p align="left">
-  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1737110160739" alt="Headphone Lo-Fi" width="150" style="border-radius:10px; margin-right: 15px; float:left;">
-</p>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=AA07FF&width=435&lines=TryHackMe+-+Lo-Fi" alt="Typing SVG" /></a> 
 
-Want to hear some lo-fi beats, to relax or study to? We've got you covered!  
+<div align="center">
 
-**Write Up CTF Lo-Fi TryHackMe by [Karina Gante](https://karinagante.github.io/).** 
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <td rowspan="2" style="width:13%; text-align:center;">
+      <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1737110160739" alt="Descrição da imagem" style="max-width:100%; height:auto;" />
+    </td>
+    <td style="width:50%;"><p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p></td>
+  </tr>
+  <tr>
+    <td><p><strong><p align="justify">Write Up CTF Lo-Fi TryHackMe by <a href="https://karinagante.github.io/" target="_blank" rel="noopener noreferrer">Karina Gante</a>.</strong></p>
+</td>
+  </tr>
+</table>
 
-----
+</div> 
+
+##
 
 ### Access room here:
 
 👉 [https://tryhackme.com/room/lofi](https://tryhackme.com/room/lofi)
 
-##
+----
 
 ### Task: 
 <p align="justify">Navigate to the following URL: <code>http://MACHINE_IP</code> and find the flag in the root of the filesystem.</p>
 
-##
+----
 
 ### Recon:
 <p align="justify">If we click on any link in right side, we can see that URL can change dynamically:</p>
