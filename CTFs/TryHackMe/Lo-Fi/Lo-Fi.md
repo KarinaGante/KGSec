@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=AA07FF&width=435&lines=TryHackMe+-+Lo-Fi" alt="Typing SVG" /></a> 
 
-<table style="width:100%;">
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td rowspan="2" style="width:20%;">
-      <img src="./images/icon.png" style="width:100%; max-width:150px; height:auto;" />
+      <img src="./images/icon.png" style="width:100%; max-width:150px; height:auto;" alt="Lo-Fi Icon" />
     </td>
     <td>
       <p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p>
@@ -15,7 +15,6 @@
     </td>
   </tr>
 </table>
-
 
 ##
 
