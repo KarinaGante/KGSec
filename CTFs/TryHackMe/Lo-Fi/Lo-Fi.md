@@ -5,7 +5,7 @@
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td rowspan="2" style="width:20%; text-align:center;">
-      <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1737110160739" alt="Descrição da imagem" style="max-width:50%; height:auto;" />
+      <img src="./images/icon.png" alt="Descrição da imagem" style="max-width:50%; height:auto;" />
     </td>
     <td style="width:50%;"><p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p></td>
   </tr>
