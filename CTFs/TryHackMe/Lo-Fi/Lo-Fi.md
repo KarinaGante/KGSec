@@ -1,11 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=AA07FF&width=435&lines=TryHackMe+-+Lo-Fi" alt="Typing SVG" /></a> 
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%;">
   <tr>
-    <td rowspan="2" style="width:20%; text-align:center;">
-      <img src="./images/icon.png" alt="Descrição da imagem" style="max-width:50%; height:auto;" />
+    <td rowspan="2">
+      <img src="./images/icon.png" />
     </td>
-    <td style="width:50%;"><p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p></td>
+    <td><p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p></td>
   </tr>
   <tr>
     <td><p><strong><p align="justify">Write Up CTF Lo-Fi TryHackMe by <a href="https://karinagante.github.io/" target="_blank" rel="noopener noreferrer">Karina Gante</a>.</strong></p>
