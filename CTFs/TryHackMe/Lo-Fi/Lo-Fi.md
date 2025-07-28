@@ -2,16 +2,20 @@
 
 <table style="width:100%;">
   <tr>
-    <td rowspan="2">
-      <img src="./images/icon.png" />
+    <td rowspan="2" style="width:20%;">
+      <img src="./images/icon.png" style="width:100%; max-width:150px; height:auto;" />
     </td>
-    <td><p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p></td>
+    <td>
+      <p align="justify">Want to hear some lo-fi beats, to relax or study to? We've got you covered!</p>
+    </td>
   </tr>
   <tr>
-    <td><p><strong><p align="justify">Write Up CTF Lo-Fi TryHackMe by <a href="https://karinagante.github.io/" target="_blank" rel="noopener noreferrer">Karina Gante</a>.</strong></p>
-</td>
+    <td>
+      <p align="justify"><strong>Write Up CTF Lo-Fi TryHackMe by <a href="https://karinagante.github.io/" target="_blank" rel="noopener noreferrer">Karina Gante</a>.</strong></p>
+    </td>
   </tr>
 </table>
+
 
 ##
 
