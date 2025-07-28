@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=AA07FF&width=435&lines=TryHackMe+-+Lo-Fi" alt="Typing SVG" /></a> 
 
-<div align="center">
-
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td rowspan="2" style="width:20%; text-align:center;">
@@ -14,8 +12,6 @@
 </td>
   </tr>
 </table>
-
-</div> 
 
 ##
 
