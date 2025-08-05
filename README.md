@@ -55,6 +55,19 @@
 
 ##
 
+ <h3>8x Discovered CVEs:</h3>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8540" target="_blank">CVE-2025-8540</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8541" target="_blank">CVE-2025-8541</a>,<br>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8542" target="_blank">CVE-2025-8542</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8543" target="_blank">CVE-2025-8543</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8544" target="_blank">CVE-2025-8544</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8545" target="_blank">CVE-2025-8545</a>
+  <br>
+
+##
+
    _“Security is not a product, but a process.” – Bruce Schneier_
 
   ##
