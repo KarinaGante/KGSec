@@ -1,5 +1,7 @@
 ![](/CVEs/images/arts/i-educar.png)
 
+<br>
+
 <div align="center">
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
