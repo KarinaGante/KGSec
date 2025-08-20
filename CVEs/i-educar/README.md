@@ -1,9 +1,10 @@
+![](/CVEs/images/arts/i-educar.png)
+
 <div align="center">
-  <h2>i-Educar Published CVEs:</h2>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8540" target="_blank">CVE-2025-8540</a>,
-  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8541" target="_blank">CVE-2025-8541</a>,<br>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8541" target="_blank">CVE-2025-8541</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8542" target="_blank">CVE-2025-8542</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8543" target="_blank">CVE-2025-8543</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8544" target="_blank">CVE-2025-8544</a>,
