@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I-EDUCAR CVES</title>
+    <title>Stored XSS</title>
     <style>
+        /* Importando Orbitron */
         @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800;900&display=swap');
 
         * {
@@ -17,8 +18,9 @@
             height: 100vh;
             background:
             url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='rgba(255,255,255,0.05)' stroke-width='1'%3E%3Cpath d='M40 0v80M0 40h80M20 0v80M60 0v80M0 20h80M0 60h80'/%3E%3C/g%3E%3C/svg%3E") repeat,
-            linear-gradient(180deg, #0d0012 0%, #3a0020 20%, #b0002c 60%, #ff0030 80%, #f0b0c0 100%);
+            linear-gradient(180deg, #0f0f23 0%, #1a1a2e 50%, #2b0d1a 100%);
             background-size: 80px 80px, 100% 100%;
+
             font-family: 'Orbitron', sans-serif;
             overflow: hidden;
             display: flex;
@@ -34,31 +36,33 @@
         }
 
         .neon-text {
-            font-size: 6rem;
-            font-weight: 900;
-            text-transform: uppercase;
-            line-height: 0.9;
-            color: #ffffff; /* branco interno */
-            -webkit-text-stroke: 3px #e03030; /* borda vermelha */
-            text-stroke: 3px #e03030;
-            filter: drop-shadow(0 0 6px #ff6090)   /* rosa claro */
-                    drop-shadow(0 0 12px #e03030)  /* vermelho */
-                    drop-shadow(0 0 18px #ff0030); /* vermelho neon */
-        }
+    font-size: 7rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 0.85;
+    color: #ff809a; /* base vermelho-rosa */
+    -webkit-text-stroke: 4px #e60039; /* borda mais grossa */
+    text-stroke: 4px #e60039;
+    filter: drop-shadow(0 0 3px #8a0f2b)   /* sombra interna escura */
+            drop-shadow(0 0 8px #ff1e45)   /* brilho vermelho vivo */
+            drop-shadow(0 0 14px #ff4f87)  /* brilho rosa médio */
+            drop-shadow(0 0 25px #ff7aa6); /* halo mais espalhado */
+}
+
+
 
         .stored, .xss {
-            display: block;
-            transform: scaleX(0.9);
-            letter-spacing: -0.04em;
             display: inline-block;
+            transform: scaleX(0.85);
+            letter-spacing: -0.05em;
         }
 
         .stored {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0;
         }
 
         .xss {
-            font-size: 6.5rem;
+            font-size: 7.5rem;
         }
 
         .equalizer {
@@ -76,31 +80,40 @@
         .eq-bar {
             width: 10px;
             background: linear-gradient(to top,
-                #ff0030 0%,   /* vermelho neon embaixo */
-                #e03060 50%,  /* rosa forte */
-                #ffffff 100%  /* branco no topo */
+                #ff003c 0%,    /* vermelho vivo embaixo */
+                #ff4f87 50%,   /* rosa neon no meio */
+                #ffffff 100%   /* branco brilhante em cima */
             );
             border-radius: 3px;
-            opacity: 0.9;
+            opacity: 0.85;
             margin: 0 1px;
+            box-shadow: 0 0 10px rgba(255, 77, 115, 0.8);
         }
 
         @media (max-width: 768px) {
-            .neon-text { font-size: 3.5rem; }
-            .xss { font-size: 4rem; }
+            .neon-text {
+                font-size: 3.5rem;
+            }
+            .xss {
+                font-size: 4rem;
+            }
         }
 
         @media (max-width: 480px) {
-            .neon-text { font-size: 2.5rem; }
-            .xss { font-size: 3rem; }
+            .neon-text {
+                font-size: 2.5rem;
+            }
+            .xss {
+                font-size: 3rem;
+            }
         }
     </style>
 </head>
 <body>
     <div class="main-content">
         <div class="neon-text"></br>
-            <span class="stored">scada-lts</span></br>
-            <span class="xss">CVES</span></br>
+            <span class="stored">i-educar</span></br>
+            <span class="xss">cves</span></br>
         </div>
     </div>
 
@@ -111,6 +124,7 @@
             const container = document.getElementById('equalizer');
             const numBars = 80;
             const heights = [25, 45, 30, 60, 80, 35, 90, 40, 70, 55, 85, 50, 95, 65, 75, 45, 100, 35, 80, 60];
+
             for (let i = 0; i < numBars; i++) {
                 const bar = document.createElement('div');
                 bar.className = 'eq-bar';
@@ -119,6 +133,7 @@
                 container.appendChild(bar);
             }
         }
+
         createEqualizer();
     </script>
 </body>
