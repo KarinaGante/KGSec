@@ -13,7 +13,15 @@
 
 ##
 
-<img src="../images/logos/i-educar.png"/> <b>Access official i-Educar repository ➤ <a href="https://github.com/portabilis/i-educar" target="_blank">https://github.com/portabilis/i-educar</a></b>
+**Access official i-Educar repository:**
+
+ <table>
+  <tr>
+    <td><img src="../images/logos/i-educar.png"/></td>
+    <td><a href="https://github.com/portabilis/i-educar" target="_blank">https://github.com/portabilis/i-educar</a></td>
+  </tr>
+</table>
+
   ##
   
   *Made with💜 by Karina.* 
