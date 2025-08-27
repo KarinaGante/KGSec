@@ -55,21 +55,22 @@
 
 ##
 
- <h3>13x Discovered CVEs:</h3>
+ <h3>15x Discovered CVEs:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8540" target="_blank">CVE-2025-8540</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8541" target="_blank">CVE-2025-8541</a>,
-  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8542" target="_blank">CVE-2025-8542</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8542" target="_blank">CVE-2025-8542</a>,<br>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8543" target="_blank">CVE-2025-8543</a>,
-  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8544" target="_blank">CVE-2025-8544</a>,<br>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-8544" target="_blank">CVE-2025-8544</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8545" target="_blank">CVE-2025-8545</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9137" target="_blank">CVE-2025-9137</a>,
-  <a href="https://www.cve.org/CVERecord?id=CVE-2025-9138" target="_blank">CVE-2025-9138</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-9138" target="_blank">CVE-2025-9138</a>,<br>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9143" target="_blank">CVE-2025-9143</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-9144" target="_blank">CVE-2025-9144</a>,
-  <a href="https://www.cve.org/CVERecord?id=CVE-2025-9145" target="_blank">CVE-2025-9145</a>
-  <br>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-9145" target="_blank">CVE-2025-9145</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-9531" target="_blank">CVE-2025-9531</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-9532" target="_blank">CVE-2025-9532</a>
 
 ##
 
